@@ -2,7 +2,7 @@
 <h3 align="center">A Quantum Computing developer from Spain</h3>
 
 <img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="384" height="384">
-<p><em> I+D departament at <a href="https://www.quanvia.com/"> Quanvia
+<p><em> I+D departament at <a href="https://vasscompany.com/"> VASS
 </em></p>
 
 ### 📫 Like to meet me?

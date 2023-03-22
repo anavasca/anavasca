@@ -20,8 +20,8 @@ Mail: anavascaliz@gamil.com
 
 <h3 align="left">Social media:</h3>
 <p align="left">
-<a href="https://twitter.com/quintosamper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quintosamper" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/carlos samper quinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos samper quinto" height="30" width="40" /></a>
+<a href="https://twitter.com/CalizNavas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quintosamper" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andresnavascaliz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos samper quinto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -10,13 +10,13 @@ Mail: anavascaliz@gamil.com
 
 <h3 align="left">About me:</h3>
 
-&#127891; Physics graduated from Universidad de Murcia, mastered in Quantum Computing from Universidad Internacional de La Rioja. Currently developing my practices in Quanvia.
+&#127891; Physics graduated from Universidad de Murcia, mastered in Quantum Computing from Universidad Internacional de La Rioja. 
  
 &#128216; I am interested in development of quantum algorithms but I am currently focus on quantum annealing and implementation of quantum machine learning in sentiment analysis.
  
 &#127800; Trying to learn everyday.
  
-&#127856; The cake is a lie.
+&#127856; Hakuna Matata.
 
 <h3 align="left">Social media:</h3>
 <p align="left">

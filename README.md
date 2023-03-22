@@ -6,7 +6,7 @@
 </em></p>
 
 ### 📫 Like to meet me?
-Mail: anavascaliz@gamil.com
+Mail: anavascaliz@gmail.com
 
 <h3 align="left">About me:</h3>
 

@@ -8,28 +8,35 @@
 ### 📫 Like to meet me?
 Mail: anavascaliz@gmail.com
 
-<h3 align="left">About me:</h3>
+# 💫 About Me:
+I am a physicist and a quantum computing enthusiast. I studied physics at the University of Murcia. I am currently studying for a Master's degree in Quantum Computing at the International University of La Rioja (UNIR). <br><br>I am interested in the development of quantum algorithms. In particular I am focused on the analysis of the QAOA algorithm and how it is related to the Quantum Annealing algorithm. <br><br>
 
-&#127891; Physics graduated from Universidad de Murcia, mastered in Quantum Computing from Universidad Internacional de La Rioja. 
- 
-&#128216; I am interested in development of quantum algorithms but I am currently focus on quantum annealing and implementation of quantum machine learning in sentiment analysis.
- 
-&#127800; Trying to learn everyday.
- 
-&#127856; Hakuna Matata.
 
-<h3 align="left">Social media:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/andresnavascaliz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres navas caliz" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andresnavascaliz) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
-  </a> <a href="https://gcc.gnu.org/fortran/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="Fortran" width="40" height="40"/>  
-  </a> <a href="https://qiskit.org/textbook/preface.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="QisKit" width="40" height="40"/>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+ </a> <a href="https://qiskit.org/textbook/preface.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="QisKit" width="40" height="40"/>
   </a> <a href="https://docs.ocean.dwavesys.com/en/stable/#" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/QBTS-dfc9fb9b.png?t=1666164742" alt="Ocean" width="40" height="40"/>
-  </a> </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anavasca&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anavasca&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anavasca&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anavasca&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anavasca&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=anavasca&icon=1&color=0)](https://visitcount.itsvg.in)
 
 

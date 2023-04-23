@@ -28,15 +28,10 @@ I am a physicist and a quantum computing enthusiast. I studied physics at the Un
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anavasca&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anavasca&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=anavasca&icon=1&color=0)](https://visitcount.itsvg.in)
 
 

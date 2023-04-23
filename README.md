@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Navas Cáliz</h1>
-<h3 align="center">A Quantum Computing developer from Spain</h3>
+<h3 align="center">A Quantum Applications Engineer from Spain</h3>
 
 <img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="384" height="384">
 <p><em> I+D departament at <a href="https://vasscompany.com/"> VASS

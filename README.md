@@ -2,8 +2,10 @@
 <h3 align="center">A Quantum Applications Engineer from Spain</h3>
 
 <img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="384" height="384">
-<p><em> I+D departament at <a href="https://vasscompany.com/"> VASS
+<p><em> Theory and Applications division at <a href="https://www.qilimanjaro.tech/"> Qilimajaro
 </em></p>
+  
+
 
 ### 📫 Like to meet me?
 Mail: anavascaliz@gmail.com

@@ -11,7 +11,7 @@
 Mail: anavascaliz@gmail.com
 
 # 💫 About Me:
-I am a physicist with a passion for quantum computing. I studied Physics at the University of Murcia. I have also completed a Master in Quantum Computing at the International University of La Rioja (UNIR). I am currently doing a Master in Theoretical Physics. I am interested in the development of quantum algorithms. I am currently working on solving optimization problems using quantum computation and quantum-inspired solutions.
+I am a physicist with a passion for quantum computing. I studied Physics at the University of Murcia. I have also completed a Master in Quantum Computing at the International University of La Rioja (UNIR). I am currently doing a Master in Theoretical Physics at University Nacional at Distance (UNED). I am interested in the development of quantum algorithms. I am currently working on solving optimization problems using quantum computation and quantum-inspired solutions.
 
 
 ## 🌐 Socials:

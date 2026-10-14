@@ -2,16 +2,14 @@
 <h3 align="center">Physicist · PhD student at Universitat de Barcelona · Spain</h3>
 
 <p align="center">
-  <a href="https://www.qilimanjaro.tech/"><img src="https://img.shields.io/badge/Qilimanjaro-Theory%20%26%20Applications-0B3D91?style=flat-square" alt="Qilimanjaro Quantum Tech"/></a>
-  <a href="https://linkedin.com/in/andresnavascaliz"><img src="https://img.shields.io/badge/LinkedIn-andresnavascaliz-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:anavascaliz@gmail.com"><img src="https://img.shields.io/badge/Email-anavascaliz%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.qilimanjaro.tech/"><img src="btn-qilimanjaro.svg" height="40" alt="Qilimanjaro Quantum Tech"/></a>&nbsp;
+  <a href="https://linkedin.com/in/andresnavascaliz"><img src="btn-linkedin.svg" height="40" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:anavascaliz@gmail.com"><img src="btn-email.svg" height="40" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <img src="qubit.svg" width="100%" alt="A driven qubit precessing on the Bloch sphere while P(|1⟩) undergoes a Rabi oscillation"/>
+  <img src="qubit.svg" width="100%" alt="Rabi oscillation of a driven qubit: Bloch-sphere trajectory and expectation values"/>
 </p>
-
-<img align="right" src="https://github.com/anavasca.png?size=260" width="200" alt="Andrés Navas Cáliz"/>
 
 ### 💫 About me
 
@@ -27,8 +25,6 @@ I'm a physicist working on quantum computing in the **Theory and Applications** 
 - **Quantum optimization**: quantum annealing, QAOA, and Ising-type formulations of hard combinatorial problems, plus quantum-inspired solvers
 - **Hamiltonian engineering for analog hardware**: modelling superconducting (fluxonium) qubits and mapping control fluxes to effective Hamiltonian coefficients
 - **Quantum simulation**: open-system and many-body dynamics (spin–boson chains, tensor networks/DMRG) with QuTiP and custom numerical code
-
-<br clear="right"/>
 
 ### 💻 Tech stack
 

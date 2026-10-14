@@ -1,45 +1,59 @@
 <h1 align="center">Hi 👋, I'm Andrés Navas Cáliz</h1>
-<h3 align="center">A Quantum Applications Engineer from Spain</h3>
+<h3 align="center">Physicist · PhD student at UB · Spain</h3>
 
-<img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="384" height="384">
-<p><em> Theory and Applications division at <a href="https://www.qilimanjaro.tech/"> Qilimanjaro
-</em></p>
-  
-
-
-### 📫 Like to meet me?
-Mail: anavascaliz@gmail.com
-
-# 💫 About Me:
-I am a physicist with a passion for quantum computing. I studied Physics at the University of Murcia. I have also completed a Master in Quantum Computing at the International University of La Rioja (UNIR). I am currently doing a Master in Theoretical Physics at University Nacional at Distance (UNED). I am interested in the development of quantum algorithms. I am currently working on solving optimization problems using quantum computation and quantum-inspired solutions.
-
-
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/andresnavascaliz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos samper quinto" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.qilimanjaro.tech/"><img src="https://img.shields.io/badge/Qilimanjaro-Theory%20%26%20Applications-0B3D91?style=flat-square" alt="Qilimanjaro Quantum Tech"/></a>
+  <a href="https://linkedin.com/in/andresnavascaliz"><img src="https://img.shields.io/badge/LinkedIn-andresnavascaliz-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:anavascaliz@gmail.com"><img src="https://img.shields.io/badge/Email-anavascaliz%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-# 💻 Tech Stack:
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
-<a href="https://gcc.gnu.org/fortran/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="Fortran" width="40" height="40"/>  
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<a href="https://qiskit.org/textbook/preface.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="QisKit" width="40" height="40"/>
-<a href="https://docs.ocean.dwavesys.com/en/stable/#" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/QBTS-dfc9fb9b.png?t=1666164742" alt="Ocean" width="40" height="40"/>
+<p align="center">
+  <img src="assets/qubit.svg" width="100%" alt="A driven qubit precessing on the Bloch sphere while P(|1⟩) undergoes a Rabi oscillation"/>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anavasca&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anavasca&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anavasca&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="right" src="assets/avatar.png" width="260" alt="Andrés Navas Cáliz"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anavasca&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
+### 💫 About me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anavasca&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
+I'm a physicist working on quantum computing in the **Theory and Applications** division at [Qilimanjaro Quantum Tech](https://www.qilimanjaro.tech/). My work sits between theoretical physics and real quantum hardware: I turn physical models into algorithms and tools that run on actual devices.
 
+- 🎓 PhD in Physics, Universitat de Barcelona (UB), in progress: tensor networks for quantum computing
+- 🎓 BSc in Physics, University of Murcia
+- 🎓 MSc in Quantum Computing, International University of La Rioja (UNIR)
+- 🎓 MSc in Theoretical Physics, Universidad Nacional de Educación a Distancia (UNED), partially completed
+- 🧑‍🏫 Master's thesis (TFM) supervisor at UNIR
 
+### 🔭 Research lines
 
+- **Quantum optimization**: quantum annealing, QAOA, and Ising-type formulations of hard combinatorial problems, plus quantum-inspired solvers
+- **Hamiltonian engineering for analog hardware**: modelling superconducting (fluxonium) qubits and mapping control fluxes to effective Hamiltonian coefficients
+- **Quantum simulation**: open-system and many-body dynamics (spin–boson chains, tensor networks/DMRG) with QuTiP and custom numerical code
 
+<br clear="right"/>
+
+### 💻 Tech stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/QuTiP-2E5C8A?style=flat-square" alt="QuTiP"/>
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit"/>
+  <img src="https://img.shields.io/badge/D--Wave%20Ocean-008CD7?style=flat-square" alt="D-Wave Ocean"/>
+  <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white" alt="Fortran"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anavasca&show_icons=true&theme=city_light&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anavasca&theme=city_light&layout=compact&langs_count=6" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anavasca&theme=default" alt="GitHub streak"/>
+</p>

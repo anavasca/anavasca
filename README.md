@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/qubit.svg" width="100%" alt="A driven qubit precessing on the Bloch sphere while P(|1⟩) undergoes a Rabi oscillation"/>
+  <img src="qubit.svg" width="100%" alt="A driven qubit precessing on the Bloch sphere while P(|1⟩) undergoes a Rabi oscillation"/>
 </p>
 
 <img align="right" src="assets/avatar.png" width="260" alt="Andrés Navas Cáliz"/>

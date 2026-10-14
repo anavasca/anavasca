@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Navas Cáliz</h1>
-<h3 align="center">Physicist · PhD student at UB · Spain</h3>
+<h3 align="center">Physicist · PhD student at Universitat de Barcelona · Spain</h3>
 
 <p align="center">
   <a href="https://www.qilimanjaro.tech/"><img src="https://img.shields.io/badge/Qilimanjaro-Theory%20%26%20Applications-0B3D91?style=flat-square" alt="Qilimanjaro Quantum Tech"/></a>
@@ -11,17 +11,16 @@
   <img src="qubit.svg" width="100%" alt="A driven qubit precessing on the Bloch sphere while P(|1⟩) undergoes a Rabi oscillation"/>
 </p>
 
-<img align="right" src="assets/avatar.png" width="260" alt="Andrés Navas Cáliz"/>
+<img align="right" src="https://github.com/anavasca.png?size=260" width="200" alt="Andrés Navas Cáliz"/>
 
 ### 💫 About me
 
 I'm a physicist working on quantum computing in the **Theory and Applications** division at [Qilimanjaro Quantum Tech](https://www.qilimanjaro.tech/). My work sits between theoretical physics and real quantum hardware: I turn physical models into algorithms and tools that run on actual devices.
 
-- 🎓 PhD in Physics, Universitat de Barcelona (UB), in progress: tensor networks for quantum computing
+- 🎓 PhD in Physics, Universitat de Barcelona, in progress: tensor networks for quantum computing
 - 🎓 BSc in Physics, University of Murcia
 - 🎓 MSc in Quantum Computing, International University of La Rioja (UNIR)
 - 🎓 MSc in Theoretical Physics, Universidad Nacional de Educación a Distancia (UNED), partially completed
-- 🧑‍🏫 Master's thesis (TFM) supervisor at UNIR
 
 ### 🔭 Research lines
 
@@ -48,12 +47,8 @@ I'm a physicist working on quantum computing in the **Theory and Applications** 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### 📊 GitHub stats
+### 📊 GitHub streak
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anavasca&show_icons=true&theme=city_light&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anavasca&theme=city_light&layout=compact&langs_count=6" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anavasca&theme=default" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=anavasca&theme=default&hide_border=true" alt="GitHub streak"/>
 </p>
